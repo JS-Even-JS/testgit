@@ -4,3 +4,6 @@ abc3
 abc4
 abc5
 abc6
+function lily(){
+	alert("lily");
+}
