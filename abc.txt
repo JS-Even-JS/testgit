@@ -1,9 +1,13 @@
 abc
 abc2
-abc3
+abc3333333
 abc4
 abc5
 abc6
 function lily(){
 	alert("lily");
 }
+function test(){
+	alert(123);
+}
+
