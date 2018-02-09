@@ -1,6 +1,9 @@
 abc
 abc2
-abc3
+abc3333333
 abc4
 abc5
 abc6
+function test(){
+	alert(123);
+}
